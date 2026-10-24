@@ -1,9 +1,10 @@
 ---
 slug: es-es/real-world-development/vscode
 title: "VS Code"
+description: "Crea, verifica y entrega cambios en Tailspin Toys con GitHub Copilot Chat, MCP y agentes personalizados en Visual Studio Code."
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-18
 ---
 
 **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/chat/copilot-chat)** en VS Code lleva GitHub Copilot al editor de código que ya utilizas. Al trabajar en Visual Studio Code (y GitHub Codespaces), dirigirás Copilot Chat en modo agente, conectarás herramientas externas mediante MCP y utilizarás agentes personalizados, todo ello sin salir del IDE, donde Copilot puede ver todos tus archivos, el terminal y los problemas.
@@ -13,7 +14,7 @@ Empezarás por añadir instrucciones personalizadas y observar cómo las sigue C
 ## Ejercicios
 
 | Ejercicio | Tema | Descripción |
-|----------|-------|-------------|
+| ------ | ----- | ----------- |
 | [0. Requisitos previos][ex0] | Configuración | Crea tu repositorio y tu codespace |
 | [1. Instrucciones personalizadas][ex1] | Contexto | Añade y verifica instrucciones personalizadas en VS Code |
 | [2. Modo agente][ex2] | Generación de código | Crea una funcionalidad de filtrado con el modo agente |
@@ -34,9 +35,10 @@ Antes de asistir a este taller, asegúrate de tener:
 > ¿No tienes un plan de pago? Los estudiantes verificados pueden obtener GitHub Copilot gratis a través de [GitHub Education][callout-student-plan-education]. El plan **Copilot Student** incluye las funcionalidades de agente, MCP, revisión de código y Copilot CLI que utiliza este taller, por lo que puedes completar todos los itinerarios con él.
 
 [callout-student-plan-education]: https://github.com/education/students
-## Empezar
 
-**[Empieza por el ejercicio 0: Requisitos previos →][ex0]**
+## Primeros pasos
+
+**[Empieza por los requisitos previos →][ex0]**
 
 [ex0]: 0-prerequisites/
 [ex1]: 1-custom-instructions/
